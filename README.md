@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I am a machine learning PhD student@[Bosch Center for AI](https://www.bosch-ai.com/) \& [TU Berlin](https://argmin.lis.tu-berlin.de/).
-Here is my quick online profile
+I am a machine learning PhD student @ [Bosch Center for AI](https://www.bosch-ai.com/) \& [TU Berlin](https://argmin.lis.tu-berlin.de/).
+Here is my quick online profile.
 
-Unfortunately, my PhD research code is not all publically available. See the pinned Bosch research repos for part of it.
+Unfortunately, not all of my PhD research code is publically available. See the pinned Bosch research repos for part of it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cen-you-li-27563018a/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=MhabRtkAAAAJ&hl=zh-TW)
