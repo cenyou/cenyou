@@ -5,7 +5,7 @@
 ## Hi there 👋
 
 I am a machine learning PhD student @ [Bosch Center for AI](https://www.bosch-ai.com/) \& [TU Berlin](https://argmin.lis.tu-berlin.de/).
-Here is my quick online profile.
+Here is my brief online profile.
 
 Unfortunately, not all of my PhD research code is publically available. See the pinned Bosch research repos for (earlier) part of it.
 
@@ -13,7 +13,7 @@ My coding experiences retrospectively:
 
 - 2017-present: **Python** (computing libs, tensorflow, pytorch), **matlab**, **shell scripting** 
 - 2016-2017: **SQL**, **HTML**, **PHP**, **shell scripting**
-- undergraduate courses: **C**, **matlab**, **shell scripting**
+- undergraduate courses: **C**, **C++**, **matlab**, **shell scripting**
 
 <!--
 **leescott82/leescott82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
