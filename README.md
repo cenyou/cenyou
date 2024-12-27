@@ -4,10 +4,10 @@
 
 ## Hi there 👋
 
-I am a machine learning PhD student @ [Bosch Center for AI](https://www.bosch-ai.com/) \& [TU Berlin](https://argmin.lis.tu-berlin.de/).
+I am a machine learning PhD student.
 Here is my brief online profile.
 
-Unfortunately, not all of my PhD research code is publically available. See the pinned Bosch research repos for (earlier) part of it.
+Unfortunately, not all of my PhD research code is publically available. See the pinned repos for (earlier) part of it.
 
 My coding experiences retrospectively:
 
